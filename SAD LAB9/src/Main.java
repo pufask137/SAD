@@ -17,7 +17,5 @@ public class Main {
             publisher.publish(s);
         }
 
-//        System.out.println();
-
     }
 }
